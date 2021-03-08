@@ -1,0 +1,1 @@
+Created a circle that follows the mouse around the page. Whenever the mouse moves, the circle immediately jumps to the new location.
